@@ -1,0 +1,9 @@
+Algorithms 2nd Edition,2002,computer science
+Computer Theory,2005,computer science
+Writing Research Papers,2010,English
+Doctrine and Covenants,1835,religion
+The Innovative University,2010,education
+Design Patterns,1993,computer science
+Mythical Man Month,1975,computer science
+Book of Mormon,1830,religion
+
